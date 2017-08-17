@@ -1,0 +1,15 @@
+name: NoHoed
+version: 0.1.0
+synopsis: Placeholder package to preserve debug ability via conditional builds
+homepage:            https://github.com/pepeiborra/NoHoed
+license:             BSD3
+author:              Jose Iborra
+maintainer:          pepeiborra@gmail.com
+copyright:           All Rights Reserved
+category:            Debugging
+
+
+library: 
+  source-dirs: src
+  dependencies:
+    - base

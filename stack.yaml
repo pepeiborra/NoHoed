@@ -1,0 +1,8 @@
+
+flags: {}
+extra-package-dbs: []
+packages:
+- .
+resolver: lts-9.0
+ghc-options:
+  "*": -Wall
